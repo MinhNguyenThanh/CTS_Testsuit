@@ -1,0 +1,6 @@
+Module,RunTime,Passed,Failed,Total Tests,Done
+CtsLiblogTestCases,211089,155,0,155,true
+CtsBootStatsTestCases,75676,1,0,1,true
+CtsBootStatsTestCases,69135,1,0,1,true
+CtsAbiOverrideHostTestCases,17892,1,0,1,true
+CtsAccessibilityServiceTestCases,13781,119,1,120,false
